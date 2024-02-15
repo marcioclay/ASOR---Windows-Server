@@ -2,7 +2,7 @@
 ## Links aula Professor Ramos Youtube
 ## Ao acessar a playlist procure pelo tema específico do índice abaixo.
 
-2. [Versões e Licenciamento](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
+2. [Versões e Licenciamento](https://www.youtube.com/watch?v=aTx0krhUb0c&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=2&pp=iAQB)
 3. [Instalação GUI](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 4. [Instalação ServerCore](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 5. [Primeiras Configurações Pós Instalação](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
