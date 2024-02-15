@@ -6,7 +6,7 @@
 3. [Instalação GUI](https://www.youtube.com/watch?v=rvWSoQU-ECo&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=3&pp=iAQB)
 4. [Instalação ServerCore](https://www.youtube.com/watch?v=b4VHHUxbXi4&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=4&pp=iAQB)
 5. [Primeiras Configurações Pós Instalação](https://www.youtube.com/watch?v=1A3eY33f3_0&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=5&pp=iAQB)
-6. [Instalação do AD]([https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt](https://www.youtube.com/watch?v=tlz07ZARars&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=6&pp=iAQB))
+6. [Instalação do AD](https://www.youtube.com/watch?v=tlz07ZARars&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=6&pp=iAQB)
 7. [Instalação e Configuração do Escopo DHCP](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 8. [Ingressar Estação de Trabalho no Domínio](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 10. [Reserva DHCP](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
