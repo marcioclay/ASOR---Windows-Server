@@ -28,6 +28,6 @@
 31. [RSAT Remote Server Administration Tools](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 32. [Active Directory Administrative Center](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 33. [Habilitando a lixeira no Active Directory](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
-34. [Como Traduzir seu Windows Server para Português Brasil [pt BR]](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
+34. [Como Traduzir seu Windows Server para Português Brasil pt BR]](https://www.youtube.com/watch?v=6Abk1BhzLAI&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=32).
 35. [BGInfo informações úteis na área de trabalho dos usuários](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 
