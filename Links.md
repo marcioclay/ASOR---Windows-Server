@@ -11,7 +11,7 @@
 8. [Ingressar Estação de Trabalho no Domínio](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 10. [Reserva DHCP](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 11. [Habilitando o Ping no Comando](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
-12. [Active Directory Usuários e OU](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
+12. [Active Directory Usuários e OU](https://www.youtube.com/watch?v=EkknFIbNOZM&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=12)
 13. [Active Directory GRUPOS](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 14. [AD Opções de Conta](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 15. [AD Horário de Logon](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
