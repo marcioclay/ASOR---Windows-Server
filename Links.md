@@ -31,7 +31,7 @@
 27. [Como Traduzir seu Windows Server para Português Brasil pt BR](https://www.youtube.com/watch?v=6Abk1BhzLAI&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=32)
 28. [BGInfo informações úteis na área de trabalho dos usuários](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 29. [Criar GPO_1](https://www.youtube.com/watch?v=UaAHozp-qMk)
-30. [bjetos de Políticas de Grupo GPO-BOSON](https://www.youtube.com/watch?v=UaAHozp-qMk)
+30. [Objetos de Políticas de Grupo GPO-BOSON](https://www.youtube.com/watch?v=UaAHozp-qMk)
 31. [Redirecionamento de Pastas via GPO no Windows Server 2012](https://www.youtube.com/watch?v=PMT6KJmW8hc)
 32. [Como Desabilitar os Requisitos de Complexidade de Senhas no Windows](https://www.youtube.com/watch?v=uP5fk1xkyFA)
 33. [Compartilhamento e Permissões de Acesso a Arquivos e Pastas](https://www.youtube.com/watch?v=6mMct0HRe54)
