@@ -1,5 +1,5 @@
 
-## Links aula Professor Ramos Youtube
+## Links aula Professor Ramos e BOSON TREINAMENTOS Youtube
 ## Ao acessar a playlist procure pelo tema específico do índice abaixo.
 
 2. [Versões e Licenciamento](https://www.youtube.com/watch?v=aTx0krhUb0c&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=2&pp=iAQB)
@@ -30,7 +30,13 @@
 33. [Habilitando a lixeira no Active Directory](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 34. [Como Traduzir seu Windows Server para Português Brasil pt BR](https://www.youtube.com/watch?v=6Abk1BhzLAI&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=32).
 35. [BGInfo informações úteis na área de trabalho dos usuários](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
-36. [Criar GPO_1](https://www.youtube.com/watch?v=kFVoFABGuNY)
+36. [Criar GPO_1]([https://www.youtube.com/watch?v=kFVoFABGuNY](https://www.youtube.com/watch?v=UaAHozp-qMk))
+37. [bjetos de Políticas de Grupo GPO-BOSON](https://www.youtube.com/watch?v=UaAHozp-qMk)
+38. [Redirecionamento de Pastas via GPO no Windows Server 2012](https://www.youtube.com/watch?v=PMT6KJmW8hc)
+39. [Como Desabilitar os Requisitos de Complexidade de Senhas no Windows](https://www.youtube.com/watch?v=uP5fk1xkyFA)
+40. [Compartilhamento e Permissões de Acesso a Arquivos e Pastas](https://www.youtube.com/watch?v=6mMct0HRe54)
+41. [Criar Pasta Base para os usuários](https://www.youtube.com/watch?v=4jdyfuFQYfg)
+42. [Objetos de Diretivas de Grupo (GPO)](https://www.youtube.com/watch?v=mra38-YS0qI)
 
    
 
