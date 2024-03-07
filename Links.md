@@ -30,7 +30,7 @@
 33. [Habilitando a lixeira no Active Directory](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 34. [Como Traduzir seu Windows Server para Português Brasil pt BR](https://www.youtube.com/watch?v=6Abk1BhzLAI&list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt&index=32)
 35. [BGInfo informações úteis na área de trabalho dos usuários](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
-36. [Criar GPO_1]([https://www.youtube.com/watch?v=kFVoFABGuNY](https://www.youtube.com/watch?v=UaAHozp-qMk))
+36. [Criar GPO_1](https://www.youtube.com/watch?v=UaAHozp-qMk)
 37. [bjetos de Políticas de Grupo GPO-BOSON](https://www.youtube.com/watch?v=UaAHozp-qMk)
 38. [Redirecionamento de Pastas via GPO no Windows Server 2012](https://www.youtube.com/watch?v=PMT6KJmW8hc)
 39. [Como Desabilitar os Requisitos de Complexidade de Senhas no Windows](https://www.youtube.com/watch?v=uP5fk1xkyFA)
