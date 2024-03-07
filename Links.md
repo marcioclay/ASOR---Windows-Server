@@ -24,7 +24,7 @@
 23. [Pasta Base com Segurança](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 28. [BACKUP](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 29. [Como restaurar um backup](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
-30. [BACKUP FULL Bare Metal do SO](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
+30. [Objetos de Diretivas de Grupo (GPO)](https://www.youtube.com/watch?v=mra38-YS0qI)
 31. [RSAT Remote Server Administration Tools](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 32. [Active Directory Administrative Center](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
 33. [Habilitando a lixeira no Active Directory](https://www.youtube.com/playlist?list=PL35Zp8zig6skwd7BaBUxROUdg9ewt6AFt)
@@ -36,7 +36,7 @@
 39. [Como Desabilitar os Requisitos de Complexidade de Senhas no Windows](https://www.youtube.com/watch?v=uP5fk1xkyFA)
 40. [Compartilhamento e Permissões de Acesso a Arquivos e Pastas](https://www.youtube.com/watch?v=6mMct0HRe54)
 41. [Criar Pasta Base para os usuários](https://www.youtube.com/watch?v=4jdyfuFQYfg)
-42. [Objetos de Diretivas de Grupo (GPO)](https://www.youtube.com/watch?v=mra38-YS0qI)
+
 
    
 
