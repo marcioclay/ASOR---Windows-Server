@@ -6,5 +6,5 @@
 - 30 Pontos 
 
 ## Avaliação 2
-Entrega xx/04
-30 Pontos 
+- Entrega xx/04
+- 30 Pontos 
