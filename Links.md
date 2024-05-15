@@ -36,3 +36,4 @@
 32. [Como Desabilitar os Requisitos de Complexidade de Senhas no Windows](https://www.youtube.com/watch?v=uP5fk1xkyFA)
 33. [Compartilhamento e Permissões de Acesso a Arquivos e Pastas](https://www.youtube.com/watch?v=6mMct0HRe54)
 34. [Criar Pasta Base para os usuários](https://www.youtube.com/watch?v=4jdyfuFQYfg)
+35. [Compartilhamento de Internet](https://www.youtube.com/watch?v=jJT95DQqHHw)
